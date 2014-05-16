@@ -1,0 +1,31 @@
+{
+      "name"                        : "ee-soa-extension-locale"
+    , "description"                 : "package description"
+    , "version"                     : "0.1.0"
+    , "homepage"                    : "https://github.com/eventEmitter/ee-soa-extension-locale"
+    , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                     : "mit"
+    , "os"                          : "!win"
+    , "repository": {
+          "url"                     : "https://github.com/eventEmitter/ee-soa-extension-locale.git"
+        , "type"                    : "git"
+    }
+    , "engines": {
+        "node"                      : ">=v0.10.17"
+    }
+    , "bugs": {
+        "url"                       : "https://github.com/eventEmitter/ee-soa-extension-locale/issues"
+    }
+    , "dependencies": {
+          "ee-class"                : "0.2.x"
+        , "ee-log"                  : "0.2.x"
+    }
+    , "devDependencies": {
+          "mocha"                   : "1.17.x"
+        , "ee-travis"               : "0.1.x"
+    }
+    , "optionalDependencies": {}
+    , "scripts": {
+        "test"                      : "./node_modules/mocha/bin/mocha --reporter spec"
+    }
+}

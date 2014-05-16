@@ -1,11 +1,10 @@
 {
       "name"                        : "ee-soa-extension-locale"
-    , "description"                 : "package description"
+    , "description"                 : "soa locale extension for nunjucks templates"
     , "version"                     : "0.1.0"
     , "homepage"                    : "https://github.com/eventEmitter/ee-soa-extension-locale"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
-    , "os"                          : "!win"
     , "repository": {
           "url"                     : "https://github.com/eventEmitter/ee-soa-extension-locale.git"
         , "type"                    : "git"

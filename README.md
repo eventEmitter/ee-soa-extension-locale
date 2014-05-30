@@ -1,10 +1,10 @@
 # ee-soa-extension-locale
 
-description
+soa locale extension for nunjucks templates
 
 ## installation
 
-
+    npm install ee-soa-extension-locale
 
 ## build status
 
@@ -12,3 +12,5 @@ description
 
 
 ## usage
+
+tbd...

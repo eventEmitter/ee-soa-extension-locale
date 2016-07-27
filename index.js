@@ -1,4 +1,3 @@
-
-
-
-	module.exports = require('./lib/LocaleExtension');
+(function() {
+    module.exports = require('./lib/LocaleExtension');
+})();

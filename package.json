@@ -16,7 +16,7 @@
         "url"                       : "https://github.com/eventEmitter/ee-soa-extension-locale/issues"
     }
     , "dependencies": {
-        "nunjucks"                  : "2.x"
+        "nunjucks"                  : "^3.0.0"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
